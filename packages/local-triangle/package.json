@@ -1,6 +1,6 @@
 {
   "name": "triangle",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,5 @@
   "dependencies": {
     "local-square": "^0.0.5"
   },
-  "private": true
+  "private": false
 }
