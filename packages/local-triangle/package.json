@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "square": "^0.0.5"
-  }
+    "local-square": "^0.0.5"
+  },
+  "private": true
 }
