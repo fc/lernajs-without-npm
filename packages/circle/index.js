@@ -9,4 +9,8 @@ var newNumbers = numbers.reduce(function(memo, number) {
     return memo;
 }, []);
 
-console.log(newNumbers);
+function circle() {
+    console.log('You just called circle:', newNumbers);
+}
+
+module.exports = circle;
