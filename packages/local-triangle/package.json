@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "circle": "^0.0.1"
+    "square": "^0.0.5"
   }
 }
